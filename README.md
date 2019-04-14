@@ -1,3 +1,3 @@
 # WhatsApp
 
-![whatsapp](/home/manbir/Documents/Screenshot_20190413-192537.jpg?raw=true)
+![whatsapp](https://user-images.githubusercontent.com/22788214/56089968-86331980-5eb8-11e9-8aec-1741d5760466.jpg)
