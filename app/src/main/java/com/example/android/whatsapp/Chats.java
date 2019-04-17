@@ -38,6 +38,7 @@ public class Chats extends Fragment {
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        // Chat list items
         listChat = new ArrayList<>();
         listChat.add(new ChatsModel("Mark Zuckerberg", "Introducing IGTV on Instagram!", R.drawable.zuckerberg, "9:11 PM"));
         listChat.add(new ChatsModel("Bill Gates", "Tried Linux and I loved it! :p", R.drawable.gates, "8:47 PM"));
