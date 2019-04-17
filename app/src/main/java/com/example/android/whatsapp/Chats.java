@@ -61,5 +61,4 @@ public class Chats extends Fragment {
         listChat.add(new ChatsModel("Marissa Mayer", "Hey! Up for a lunch tomorrow? ", R.drawable.mayer, "YESTERDAY"));
         listChat.add(new ChatsModel("Shantanu Narayen", "What's up dude?", R.drawable.narayen, "11 JULY"));
     }
-
 }
