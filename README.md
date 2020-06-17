@@ -1,2 +1,2 @@
-# WhatsApp
-<img src = "https://user-images.githubusercontent.com/22788214/56089968-86331980-5eb8-11e9-8aec-1741d5760466.jpg" alt = "whatsapp" width = "360"/>
+# WhatsApp for Android (Front-end)
+<img src = "https://user-images.githubusercontent.com/22788214/84953777-c374e600-b111-11ea-86f8-06fb0d1edd31.jpeg" width = 40%/>
